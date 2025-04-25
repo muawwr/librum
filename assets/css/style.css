@@ -1235,7 +1235,7 @@ input.search_input_2::placeholder {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr);
         gap: 10px;
-        margin-top: 20px;
+        margin-top: 180px;
     }
     .nav_item{
         display: flex;
